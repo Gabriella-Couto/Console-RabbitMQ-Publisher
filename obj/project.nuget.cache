@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "CK3mIPCo5ep73WSGGM6Lnu6ZFzHiSFMyVVcZXSIz0kwuOeFG9WF8ZE59zGTyWm4wFh7gqaiAEZYQWFOeM6s3Xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabii\\OneDrive\\Documentos\\Estudos programacao\\net_6\\Console-RabbitMQ-Publisher\\ConsoleAppRabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabii\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
+    "C:\\Users\\gabii\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512",
+    "C:\\Users\\gabii\\.nuget\\packages\\serilog.sinks.console\\4.1.0\\serilog.sinks.console.4.1.0.nupkg.sha512",
+    "C:\\Users\\gabii\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\gabii\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\gabii\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\gabii\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\gabii\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\gabii\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
